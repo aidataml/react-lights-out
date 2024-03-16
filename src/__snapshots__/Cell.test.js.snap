@@ -1,1 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`<Cell /> rendering matches snapshot when lit 1`] = `<DocumentFragment />`;
+
+exports[`<Cell /> rendering matches snapshot when not lit 1`] = `<DocumentFragment />`;
+
+exports[`<Cell /> rendering shows correctly when lit 1`] = `<DocumentFragment />`;
+
+exports[`<Cell /> rendering shows correctly when not lit 1`] = `<DocumentFragment />`;
